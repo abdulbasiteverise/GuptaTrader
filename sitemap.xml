@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://yourdomain.com/</loc>
-</url>
+  <url><loc>https://rajacoolways.in/</loc></url>
+  <url><loc>https://rajacoolways.in/about.html</loc></url>
+  <url><loc>https://rajacoolways.in/services.html</loc></url>
+  <url><loc>https://rajacoolways.in/faq.html</loc></url>
+  <url><loc>https://rajacoolways.in/locations/bodhgaya.html</loc></url>
+  <url><loc>https://rajacoolways.in/locations/civil-lines-gaya.html</loc></url>
+  <url><loc>https://rajacoolways.in/locations/delha.html</loc></url>
+  <url><loc>https://rajacoolways.in/blog/</loc></url>
+  <url><loc>https://rajacoolways.in/blog/ro-not-working-reasons.html</loc></url>
+  <url><loc>https://rajacoolways.in/blog/when-to-change-ro-filter.html</loc></url>
+  <url><loc>https://rajacoolways.in/blog/best-ro-brands-in-india.html</loc></url>
 </urlset>
