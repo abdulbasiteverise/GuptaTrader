@@ -13,7 +13,7 @@
       const name = data.get('name');
       const phone = data.get('phone');
       const issue = data.get('issue');
-      const msg = encodeURIComponent(`Hi Raja Coolways, I need RO service in Gaya.%0AName: ${name}%0APhone: ${phone}%0AIssue: ${issue}`);
+      const msg = encodeURIComponent(`Hi Guptra Traders, I need RO service in Gaya.%0AName: ${name}%0APhone: ${phone}%0AIssue: ${issue}`);
       window.open(`https://wa.me/919852215570?text=${msg}`, '_blank', 'noopener');
     });
   }
